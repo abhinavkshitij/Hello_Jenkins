@@ -5,6 +5,6 @@ using namespace std;
 int main(void) {
   cout << "Jenkins Hello World example\n";
   cout << "Testing webhook with ngrok after ssh-auth\n";
-  cout << "Added correct webhook payload with ngrok\n"
+  cout << "Added correct webhook payload with ngrok\n";
   return 0;
 }
